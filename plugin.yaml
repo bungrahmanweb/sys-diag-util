@@ -1,0 +1,5 @@
+name: sys-diag
+description: System diagnostics collection
+version: 1.0.0
+author: maint
+license: MIT
